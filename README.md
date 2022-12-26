@@ -1,4 +1,4 @@
-<divalign="center">
+<div align="center">
 ### 📚stack
 
 <!--
