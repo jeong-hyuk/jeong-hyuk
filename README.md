@@ -11,8 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <a target="_blank" href="https://icons8.com/icon/100506/%EC%9E%90%EB%B0%94-%EC%BB%A4%ED%94%BC-%EC%BB%B5-%EB%A1%9C%EA%B3%A0">자바 커피 컵 로고</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
