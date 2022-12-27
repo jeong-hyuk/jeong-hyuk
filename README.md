@@ -1,5 +1,5 @@
 <div align="center">
-<h3>📚stack<h3><br>
+<h3>📖stack<h3><br>
 
 <!--
 - 🔭 I’m currently working on ...
