@@ -22,3 +22,5 @@
 <a href="https://jack1150.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a><br>
   <br>
 <div/>
+
+  <div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong-hyuk&layout=compact&theme=tokyonight)</div>
