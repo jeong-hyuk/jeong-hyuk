@@ -21,5 +21,5 @@
 <a href="https://gogimandu.notion.site/e422c0cf1b504859960e1dae7df2aeb0"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://jack1150.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a><br><br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zack8361&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong-hyuk&show_icons=true&theme=onedark)
 <div/>
