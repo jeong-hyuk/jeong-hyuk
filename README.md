@@ -23,5 +23,4 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong-hyuk&show_icons=true&theme=onedark)<br><br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong-hyuk&langs_count=10&layout=compact&theme=onedark)](https://github.com/jogilsang/jogilsang)
 <div/>
